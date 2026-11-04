@@ -1,0 +1,34 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="20" fill="#F4F7FB"/>
+  <rect x="44" y="44" width="1112" height="332" rx="16" fill="white" stroke="#D9E1EE" stroke-width="2"/>
+
+  <rect x="76" y="84" width="1048" height="44" rx="10" fill="#EEF3FB"/>
+  <text x="106" y="112" fill="#4B5B73" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Name</text>
+  <text x="620" y="112" fill="#4B5B73" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Assignee</text>
+  <text x="820" y="112" fill="#4B5B73" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Due Date</text>
+  <text x="1010" y="112" fill="#4B5B73" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Status</text>
+
+  <rect x="76" y="144" width="1048" height="58" rx="10" fill="#FAFCFF" stroke="#E5EBF5"/>
+  <circle cx="114" cy="173" r="13" fill="white" stroke="#64748B" stroke-width="2.5"/>
+  <text x="146" y="179" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">Prepare QA notes for release</text>
+  <text x="620" y="179" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="15">Ava Johnson</text>
+  <text x="820" y="179" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="15">Apr 14, 2026</text>
+  <rect x="1002" y="159" width="86" height="28" rx="14" fill="#FEF3C7"/>
+  <text x="1024" y="178" fill="#92400E" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Review</text>
+
+  <rect x="76" y="212" width="1048" height="58" rx="10" fill="#F8FAFC" stroke="#E5EBF5"/>
+  <circle cx="114" cy="241" r="13" fill="#16A34A" stroke="#15803D" stroke-width="2.5"/>
+  <path d="M108 241L113 246L121 236" stroke="white" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="146" y="247" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">Send approved copy to design</text>
+  <text x="620" y="247" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="15">Noah Lee</text>
+  <text x="820" y="247" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="15">Apr 09, 2026</text>
+  <rect x="1002" y="227" width="86" height="28" rx="14" fill="#DCFCE7"/>
+  <text x="1032" y="246" fill="#166534" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Done</text>
+
+  <path d="M330 320C260 320 202 287 160 255" stroke="#155EEF" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="166,245 144,245 155,262" fill="#155EEF"/>
+  <rect x="340" y="286" width="500" height="64" rx="10" fill="#155EEF"/>
+  <text x="364" y="324" fill="white" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Click this status circle to mark a task Done</text>
+
+  <text x="72" y="52" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">Task List view: quick completion action</text>
+</svg>

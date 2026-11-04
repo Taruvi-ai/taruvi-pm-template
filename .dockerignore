@@ -1,0 +1,10 @@
+.git
+.env*
+!.env.example
+.codex*
+.kiro
+.claude
+.mcp*.json
+node_modules
+dist
+scripts/__pycache__

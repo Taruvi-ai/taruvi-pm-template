@@ -1,0 +1,10 @@
+{
+  "name": "taruvi-project-management",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-02-04",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application"
+  }
+}

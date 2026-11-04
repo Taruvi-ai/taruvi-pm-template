@@ -1,0 +1,13 @@
+title = "taruvi-project-management gitleaks config"
+
+[extend]
+useDefault = true
+
+# The built-in generic-api-key rule does not match the "Api-Key <64-hex>"
+# header form used by Taruvi MCP credentials (SAST #1).
+[[rules]]
+id = "taruvi-api-key"
+description = "Taruvi Api-Key header"
+regex = '''(?i)api-key\s+([0-9a-f]{64})'''
+secretGroup = 1
+keywords = ["api-key"]

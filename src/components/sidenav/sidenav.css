@@ -1,0 +1,28 @@
+/* MUI Sidenav - Minimal custom styles */
+
+/* Scrollbar styling for the menu list */
+.MuiDrawer-paper::-webkit-scrollbar {
+  width: 4px;
+}
+
+.MuiDrawer-paper::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.MuiDrawer-paper::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+}
+
+.MuiDrawer-paper::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.24);
+}
+
+/* Dark mode scrollbar */
+[data-theme="dark"] .MuiDrawer-paper::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+[data-theme="dark"] .MuiDrawer-paper::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255, 255, 255, 0.24);
+}

@@ -1,0 +1,57 @@
+<svg width="1200" height="780" viewBox="0 0 1200 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="780" rx="20" fill="#EDF3FB"/>
+
+  <rect x="180" y="36" width="840" height="708" rx="16" fill="#FFFFFF" stroke="#D7E0ED" stroke-width="2"/>
+  <rect x="180" y="36" width="840" height="58" rx="16" fill="#F7FAFE"/>
+  <text x="214" y="73" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Create Task</text>
+
+  <text x="214" y="132" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Project (preselected in Project view)</text>
+  <rect x="210" y="141" width="780" height="42" rx="8" fill="#F8FAFC" stroke="#D5DEE9" stroke-width="2"/>
+  <text x="226" y="168" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="13">Website Redesign</text>
+
+  <text x="214" y="215" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Title</text>
+  <rect x="210" y="224" width="780" height="46" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+  <text x="226" y="253" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">e.g. Finalize mobile QA checklist</text>
+  <text x="980" y="214" fill="#DC2626" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">*</text>
+
+  <text x="214" y="301" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Description</text>
+  <rect x="210" y="310" width="780" height="70" rx="8" fill="#FFFFFF" stroke="#D5DEE9" stroke-width="2"/>
+  <text x="226" y="338" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="13">Optional details</text>
+
+  <text x="214" y="410" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Parent Task (optional)</text>
+  <rect x="210" y="419" width="780" height="42" rx="8" fill="#FFFFFF" stroke="#D5DEE9" stroke-width="2"/>
+
+  <text x="214" y="492" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Status</text>
+  <rect x="210" y="501" width="380" height="42" rx="8" fill="#FFFFFF" stroke="#D5DEE9" stroke-width="2"/>
+  <text x="226" y="528" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="13">To Do</text>
+
+  <text x="610" y="492" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Priority</text>
+  <rect x="606" y="501" width="384" height="42" rx="8" fill="#FFFFFF" stroke="#D5DEE9" stroke-width="2"/>
+  <text x="622" y="528" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="13">Medium</text>
+
+  <text x="214" y="572" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Start Date</text>
+  <rect x="210" y="581" width="252" height="42" rx="8" fill="#FFFFFF" stroke="#D5DEE9" stroke-width="2"/>
+
+  <text x="476" y="572" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">End Date</text>
+  <rect x="472" y="581" width="252" height="42" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+  <text x="714" y="572" fill="#DC2626" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">*</text>
+
+  <text x="738" y="572" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Assigned To</text>
+  <rect x="734" y="581" width="256" height="42" rx="8" fill="#FFFFFF" stroke="#D5DEE9" stroke-width="2"/>
+
+  <rect x="210" y="676" width="112" height="40" rx="8" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="248" y="701" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Cancel</text>
+  <rect x="866" y="676" width="124" height="40" rx="8" fill="#155EEF"/>
+  <text x="901" y="701" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Create</text>
+
+  <rect x="26" y="224" width="162" height="44" rx="10" fill="#DC2626"/>
+  <text x="44" y="252" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Required</text>
+  <path d="M188 246C196 246 202 246 210 246" stroke="#DC2626" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="26" y="581" width="162" height="44" rx="10" fill="#DC2626"/>
+  <text x="44" y="609" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Required</text>
+  <path d="M188 603C304 603 380 603 472 603" stroke="#DC2626" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="292" y="734" width="616" height="34" rx="8" fill="#0F172A"/>
+  <text x="310" y="756" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">Create Task in Project view: required fields are Title and End Date</text>
+</svg>

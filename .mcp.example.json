@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "taruvi": {
+        "type": "http",
+        "url": "https://tenant.taruvi.cloud/mcp/",
+        "headers":{
+          "Authorization": "Api-Key {API_KEY}",
+          "X-App-Slug": "sample-app"
+        }
+    },
+    "context7": {
+            "command": "npx",
+            "args": ["-y", "@upstash/context7-mcp"]
+    }
+  }
+}
